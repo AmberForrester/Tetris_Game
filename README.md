@@ -20,6 +20,7 @@ Game Loop:
     2. Updating Positions: Update the positions of all the game objects (the blocks) based on the events we detected in Step 1 Event Handling. 
 
     3. Drawing Objects: Draw all the game objects in their new positions on the screen. Using the Pygame graphics functions to render the objects in the display. 
+
     ***By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.***  
 
 Game Window: (Display Surface)
@@ -34,6 +35,7 @@ Coordinate Systems to draw on the display surface:
 Set the Game Title using -> pygame.display.set_caption('Python Tetris Game')
 
 Create a clock object using -> clock = pygame.time.Clock() 
+
 ***Make sure Clock has a capital C, to control the frame rate of the game - "How fast the game will run"***
 
 
