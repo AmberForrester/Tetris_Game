@@ -12,12 +12,12 @@ Receiving confirmation that it was successfully installed should render in your 
 Successfully installed pygame-ce-2.5.1 
 ```
 
-Initialize Pygame using:
+Start using and initialize Pygame writing the following within `main.py`:
 ```
 pygame.init()
 ```
 
-# Set up Game Structure
+## Set up the Game Structure  
 Definitions:
 - Defining the variables needed
 - Creating the game objects 
