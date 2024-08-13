@@ -1,10 +1,21 @@
 # Tetris_Game
 
-Build the Tetris game using Python and Pygame package 
+Build the Tetris game using Python and the Pygame package 
 
-Installing Pygame: pip install pygame-ce 
-Receiving confirmation that it was successfully installed: pygame-ce-2.5.1 
-Initialize Pygame using -> pygame.init()
+Installing Pygame: 
+```
+pip install pygame-ce 
+```
+
+Receiving confirmation that it was successfully installed should render in your terminal:
+```
+Successfully installed pygame-ce-2.5.1 
+```
+
+Initialize Pygame using:
+```
+pygame.init()
+```
 
 # Set up Game Structure
 Definitions:
@@ -15,13 +26,14 @@ Game Loop:
 - Updating the positions of the game objects
 - Checking for collisions 
 - Consists of 3 parts - 
-    1. Event Handling: Check for any events that occur in the game = quitting the game, a key pressed on the keyboard, etc. Using the Pygame event handling system. 
 
-    2. Updating Positions: Update the positions of all the game objects (the blocks) based on the events we detected in Step 1 Event Handling. 
+1. Event Handling: Check for any events that occur in the game = quitting the game, a key pressed on the keyboard, etc. Using the Pygame event handling system. 
 
-    3. Drawing Objects: Draw all the game objects in their new positions on the screen. Using the Pygame graphics functions to render the objects in the display. 
+2. Updating Positions: Update the positions of all the game objects (the blocks) based on the events we detected in Step 1 Event Handling. 
 
-    ***By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.***  
+3. Drawing Objects: Draw all the game objects in their new positions on the screen. Using the Pygame graphics functions to render the objects in the display. 
+
+***By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.***  
 
 Game Window: (Display Surface)
 - Create the blank canvas to draw our game objects by using -> screen = pygame.display.set_mode((300, 600))
