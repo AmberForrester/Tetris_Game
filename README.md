@@ -1,4 +1,4 @@
-# Tetris_Game
+# Tetris_Game :joystick:
 
 Build the Tetris game using Python and the Pygame package 
 
