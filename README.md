@@ -1,10 +1,11 @@
-
 <h1 align='center'>Tetris_Game :joystick:</h1> 
+
+<a id="readme-top"></a>
 
 <div align='center'>
 <img src='/TetrisImg.png' alt='Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.'>
 
-<a id="readme-top"></a>
+
 
 <p align='center'>Embark on a nostalgic journey building the classic game of Tetris using Python and Pygame. <br/>
 <a href='https://github.com/AmberForrester/Tetris_Game'><strong>Source Code »</strong></a>
@@ -51,7 +52,7 @@ This game was built using Python as the programming language and its cross-platf
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 ## Getting Started
-A good understanding of Python and Pygame would be beneficial to creating this project. However, it is always good practice to refer to the Documentation available when developing ***any*** project. 
+A good understanding of Python and Pygame would be beneficial to helping you create this project. However, it is always good practice to refer to the Documentation available when developing ***any*** project. 
 
 _Please refer to the [Python Documentation](https://docs.python.org/3/) and the [PyGame Documentation](https://www.pygame.org/docs/) for your reference._
 
