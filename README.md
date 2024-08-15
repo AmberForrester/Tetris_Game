@@ -119,9 +119,12 @@ clock = pygame.time.Clock()
 
 ## Contact
 
-Amber Forrester -  
+Amber Forrester 
 :small_blue_diamond:[LinkedIn](https://www.linkedin.com/in/amber-forrester-6455a582/) 
 
+:small_blue_diamond: divineintelligence3.0@gmail.com
+
+:small_blue_diamond: Project Link - [Tetris_Game](https://github.com/AmberForrester/Tetris_Game)
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
