@@ -48,13 +48,19 @@
 
 # About This Project
 This game was built using Python as the programming language and its cross-platform set of modules Pygame, used to create video games! This partnership creates the perfect demonstration of a game development library with the various functions for graphics, audio, and input handling that Pygame has to offer. 
-
-<p align="right">(<a href="#readme-top">top of page</a>)</p>
-
-## Getting Started
+<br />
 A good understanding of Python and Pygame would be beneficial to helping you create this project. However, it is always good practice to refer to the Documentation available when developing ***any*** project. 
 
 _Please refer to the [Python Documentation](https://docs.python.org/3/) and the [PyGame Documentation](https://www.pygame.org/docs/) for your reference._
+
+_The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run Python code interactively as you work on a project or are in the process of learning this programming language. You may find it useful to vist the [Getting the Most Out of the Python Standard REPL website](https://realpython.com/python-repl/) to further your understanding and produce better results._
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
+## Getting Started
+
 
 Installing Pygame: 
 ```
@@ -148,6 +154,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Please take some time to check out the links below! I found value in each and every one of them, so my hope is that you will to!
 
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
+* [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
+* [Formatting Syntax: GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
