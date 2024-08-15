@@ -135,6 +135,14 @@ If you have a suggestion that would make this project better, please fork the re
 
 
 
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 ## Acknowledgments
 
 Please take some time to check out the links below! I found value in each and every one of them, so my hope is that you will to!
