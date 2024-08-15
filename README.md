@@ -4,7 +4,9 @@
 <img src='/TetrisImg.png' alt='Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.'>
 </div>
 
-<p align='center'>Embark on a nostalgic journey while building the classic Tetris game using the programming language Python and it's Pygame library! The Pygame library gifts this Tetris game various functions for its graphics, audio, and input handling. </p>
+<p align='center'>Embark on a nostalgic journey while building the classic Tetris game. <br/>
+Use the programming language Python and it's Pygame library! <br/>
+The Pygame library gifts this Tetris game various functions for its graphics, audio, and input handling. </p>
 
 
 
