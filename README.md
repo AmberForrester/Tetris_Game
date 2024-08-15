@@ -49,6 +49,7 @@
 # About This Project
 This game was built using Python as the programming language and its cross-platform set of modules Pygame, used to create video games! This partnership creates the perfect demonstration of a game development library with the various functions for graphics, audio, and input handling that Pygame has to offer. 
 <br />
+<br />
 A good understanding of Python and Pygame would be beneficial to helping you create this project. However, it is always good practice to refer to the Documentation available when developing ***any*** project. 
 
 _Please refer to the [Python Documentation](https://docs.python.org/3/) and the [PyGame Documentation](https://www.pygame.org/docs/) for your reference._
