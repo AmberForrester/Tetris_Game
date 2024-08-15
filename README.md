@@ -47,7 +47,7 @@
 # About This Project
 This game was built using Python as the programming language and its cross-platform set of modules Pygame, used to create video games! This partnership creates the perfect demonstration of a game development library with the various functions for graphics, audio, and input handling that Pygame has to offer. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 ## Getting Started
 A good understanding of Python and Pygame would be beneficial to creating this project. However, it is always good practice to refer to the Documentation available when developing ***any*** project. 
@@ -112,7 +112,18 @@ clock = pygame.time.Clock()
 
 **Make sure Clock has a capital C to control the frame rate of the game - _"How fast the game will run"_**
 
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
 ## Contact
+
+Amber F. 
+	:small_blue_diamond:[LinkedIn](https://www.linkedin.com/in/amber-forrester-6455a582/) 
+
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 
 
@@ -122,4 +133,4 @@ Please take some time to check out the links below! I found value in each and ev
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
