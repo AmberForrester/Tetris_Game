@@ -4,32 +4,14 @@
 <img src='/TetrisImg.png' alt='Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.'>
 
 <p align='center'>Embark on a nostalgic journey while building the classic Tetris game. <br/>
-Use the programming language Python and it's Pygame library! <br/>
-The Pygame library gifts this Tetris game various functions for its graphics, audio, and input handling. 
 <br />
-<a href='https://github.com/AmberForrester/Tetris_Game'><strong>Explore the docs »</strong></a>
+<a href='https://github.com/AmberForrester/Tetris_Game'><strong>Source Code »</strong></a>
 <br />
 <br />
 <a href='https://github.com/AmberForrester/Tetris_Game/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md'>Report Bug</a>
 .
 <a href='https://github.com/AmberForrester/Tetris_Game/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md'>Request Feature</a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -41,7 +23,8 @@ The Pygame library gifts this Tetris game various functions for its graphics, au
 
 
 
-
+## About This Project
+This game was built using Python as the programming language and it's Pygame library! Alongside the Pygame library, I was able to use it's various functions for the graphics, audio, and input handling for the Tetris game. 
 
 Installing Pygame: 
 ```
