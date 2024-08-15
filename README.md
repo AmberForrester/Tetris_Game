@@ -11,21 +11,47 @@
 .
 <a href='https://github.com/AmberForrester/Tetris_Game/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md'>Request Feature</a>
 </p>
-
-
-
 </div>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-this-project">About This Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 
 
 
 
 
-## About This Project
-This game was built using Python as the programming language and its cross-platform set of modules Pygame, used to create video games! This partnership creates the perfect usage of the various functions for the graphics, audio, and input handling Pygame has to offer. 
+# About This Project
+This game was built using Python as the programming language and its cross-platform set of modules Pygame, used to create video games! This partnership creates the perfect demonstration of a game development library with the various functions for graphics, audio, and input handling that Pygame has to offer. 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Getting Started
+You will need to have Python installed to complete this project.
+
+_Please refer to the [Python Documentation](https://docs.python.org/3/)_
 
 Installing Pygame: 
 ```
@@ -85,4 +111,14 @@ clock = pygame.time.Clock()
 
 **Make sure Clock has a capital C to control the frame rate of the game - _"How fast the game will run"_**
 
+## Contact
 
+
+
+## Acknowledgments
+Please take some time to check out the links below! I found value in each and every one of them, so my hope is that you will to!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
