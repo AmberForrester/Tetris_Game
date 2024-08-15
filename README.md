@@ -1,7 +1,7 @@
-<h5 align='center'>Tetris_Game :joystick:</h5> 
+<h1 align='center'>Tetris_Game :joystick:</h1> 
 
 <div align='center'>
-![Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.](./TetrisImg.png)
+<img src='/TetrisImg.png' alt='Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.'>
 </div>
 
 
