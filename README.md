@@ -3,7 +3,7 @@
 <div align='center'>
 <img src='/TetrisImg.png' alt='Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.'>
 
-<p align='center'>Embark on a nostalgic journey while building the classic Tetris game. <br/>
+<p align='center'>Embark on a nostalgic journey while building the classic game of Tetris using Python and its cross-platform module Pygame. <br/>
 <a href='https://github.com/AmberForrester/Tetris_Game'><strong>Source Code »</strong></a>
 <br />
 <br />
