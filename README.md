@@ -25,7 +25,7 @@ Definitions:
 Game Loop:
 - [ ] Updating the positions of the game objects
 - [ ] Checking for collisions 
-- [ ] Consists of 3 parts: 
+- [ ] Consists of 3 steps: 
 
 1. Event Handling -
     - Check for any events that occur in the game = quitting the game, a key pressed on the keyboard, etc. Using the Pygame event handling system. 
@@ -38,18 +38,25 @@ Game Loop:
 
 ***By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.***  
 
-Game Window: (Display Surface)
-- Create the blank canvas to draw our game objects by using -> screen = pygame.display.set_mode((300, 600))
-- Set Mode method takes a tuple as an argument ((width, height))
 
-Coordinate Systems to draw on the display surface:
-- Computer Graphics - The origin of display is located at the top left corner (0, 0)
-- X Coordinate increases as we move to the RIGHT (X, 0)
-- Y Coordinate increases as we move DOWN (0, Y)
+Game Window: (Display Surface) - 
+    - Create the blank canvas to draw our game objects by using -> screen = pygame.display.set_mode((300, 600))
+    - Set Mode method takes a tuple as an argument ((width, height))
 
-Set the Game Title using -> pygame.display.set_caption('Python Tetris Game')
+Coordinate Systems to draw on the display surface - 
+    - Computer Graphics - The origin of display is located at the top left corner (0, 0)
+    - X Coordinate increases as we move to the RIGHT (X, 0)
+    - Y Coordinate increases as we move DOWN (0, Y)
 
-Create a clock object using -> clock = pygame.time.Clock() 
+Set the Game Title using:
+```
+pygame.display.set_caption('Python Tetris Game')
+```
+
+Create a clock object using:
+```
+clock = pygame.time.Clock() 
+```
 
 ***Make sure Clock has a capital C, to control the frame rate of the game - "How fast the game will run"***
 
