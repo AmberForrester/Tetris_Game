@@ -3,7 +3,7 @@
 <div align='center'>
 <img src='/TetrisImg.png' alt='Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.'>
 
-<p align='center'>Embark on a nostalgic journey building the classic game of Tetris using Python and its cross-platform module Pygame. <br/>
+<p align='center'>Embark on a nostalgic journey building the classic game of Tetris using Python and Pygame. <br/>
 <a href='https://github.com/AmberForrester/Tetris_Game'><strong>Source Code »</strong></a>
 <br />
 <br />
@@ -23,7 +23,9 @@
 
 
 ## About This Project
-This game was built using Python as the programming language and it's Pygame library! Alongside the Pygame library, I was able to use it's various functions for the graphics, audio, and input handling for the Tetris game. 
+This game was built using Python as the programming language and its cross-platform set of modules Pygame, used to create video games! This partnership creates the perfect usage of the various functions for the graphics, audio, and input handling Pygame has to offer. 
+
+
 
 Installing Pygame: 
 ```
