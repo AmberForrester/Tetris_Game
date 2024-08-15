@@ -119,8 +119,8 @@ clock = pygame.time.Clock()
 
 ## Contact
 
-Amber F. 
-	:small_blue_diamond:[LinkedIn](https://www.linkedin.com/in/amber-forrester-6455a582/) 
+Amber Forrester -  
+:small_blue_diamond:[LinkedIn](https://www.linkedin.com/in/amber-forrester-6455a582/) 
 
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
