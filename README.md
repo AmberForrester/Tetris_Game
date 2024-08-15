@@ -34,7 +34,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -117,20 +116,24 @@ clock = pygame.time.Clock()
 
 
 
-## Contact
+## Contributing
 
-Amber Forrester 
-:small_blue_diamond:[LinkedIn](https://www.linkedin.com/in/amber-forrester-6455a582/) 
+I have learned that contributions are the heart of what makes the open source community such an amazing place! We are constantly able to learn, grow, inspire eachother, and create incredible things. Any contributions you make are **greatly appreciated**, we are so lucky to be here together.
 
-:small_blue_diamond: divineintelligence3.0@gmail.com
+If you have a suggestion that would make this project better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! I appreciate you!
 
-:small_blue_diamond: Project Link - [Tetris_Game](https://github.com/AmberForrester/Tetris_Game)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 
 
 ## Acknowledgments
+
 Please take some time to check out the links below! I found value in each and every one of them, so my hope is that you will to!
 
 * [Choose an Open Source License](https://choosealicense.com)
