@@ -1,6 +1,11 @@
 # Tetris_Game :joystick:
 
-Embark on a nostalgic journey while building the classic Tetris game using Python and the Pygame package! 
+![Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.](./TetrisImg.png)
+
+
+Embark on a nostalgic journey while building the classic Tetris game using the programming language Python and it's Pygame library! 
+
+The Pygame library gifts this Tetris game various functions for its graphics, audio, and input handling. 
 
 Installing Pygame: 
 ```
@@ -36,7 +41,7 @@ Game Loop:
 3. Drawing Objects -
     - Draw all the game objects in their new positions on the screen. Using the Pygame graphics functions to render the objects in the display. 
 
-***By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.***  
+**By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.**
 
 
 Game Window: (Display Surface) - 
@@ -58,6 +63,6 @@ Create a clock object using:
 clock = pygame.time.Clock() 
 ```
 
-***Make sure Clock has a capital C, to control the frame rate of the game - "How fast the game will run"***
+**Make sure Clock has a capital C to control the frame rate of the game - _"How fast the game will run"_**
 
 
