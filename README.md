@@ -90,7 +90,7 @@ Game Loop:
 3. Drawing Objects -
     - Draw all the game objects in their new positions on the screen. Using the Pygame graphics functions to render the objects in the display. 
 
-**By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.**
+> By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.
 
 
 Game Window: (Display Surface) - 
@@ -112,7 +112,7 @@ Create a clock object using:
 clock = pygame.time.Clock() 
 ```
 
-**Make sure Clock has a capital C to control the frame rate of the game - _"How fast the game will run"_**
+> Make sure Clock has a capital C to control the frame rate of the game - _"How fast the game will run"_
 
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
@@ -147,6 +147,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Please take some time to check out the links below! I found value in each and every one of them, so my hope is that you will to!
 
+* [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
