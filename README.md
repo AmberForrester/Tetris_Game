@@ -1,6 +1,8 @@
-<h3 align='center'>Tetris_Game :joystick:</h3> 
+<h5 align='center'>Tetris_Game :joystick:</h5> 
 
+<div align='center'>
 ![Picture of the classic Tetris game as your starting to build with the grid you are playing on to the left, with coloured blocks lining the bottom, and showing your score on the top right side with the next piece coming directly below that.](./TetrisImg.png)
+</div>
 
 
 Embark on a nostalgic journey while building the classic Tetris game using the programming language Python and it's Pygame library! 
