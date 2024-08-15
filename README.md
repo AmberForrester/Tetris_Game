@@ -1,6 +1,6 @@
 # Tetris_Game :joystick:
 
-Build the Tetris game using Python and the Pygame package 
+Embark on a nostalgic journey while building the classic Tetris game using Python and the Pygame package! 
 
 Installing Pygame: 
 ```
@@ -19,19 +19,22 @@ pygame.init()
 
 ## Set up the Game Structure  
 Definitions:
-- Defining the variables needed
-- Creating the game objects 
+- [ ] Defining the variables needed
+- [ ] Creating the game objects 
 
 Game Loop:
-- Updating the positions of the game objects
-- Checking for collisions 
-- Consists of 3 parts - 
+- [ ] Updating the positions of the game objects
+- [ ] Checking for collisions 
+- [ ] Consists of 3 parts: 
 
-1. Event Handling: Check for any events that occur in the game = quitting the game, a key pressed on the keyboard, etc. Using the Pygame event handling system. 
+1. Event Handling -
+    - Check for any events that occur in the game = quitting the game, a key pressed on the keyboard, etc. Using the Pygame event handling system. 
 
-2. Updating Positions: Update the positions of all the game objects (the blocks) based on the events we detected in Step 1 Event Handling. 
+2. Updating Positions -
+    - Update the positions of all the game objects (the blocks) based on the events we detected in Step 1 Event Handling. 
 
-3. Drawing Objects: Draw all the game objects in their new positions on the screen. Using the Pygame graphics functions to render the objects in the display. 
+3. Drawing Objects -
+    - Draw all the game objects in their new positions on the screen. Using the Pygame graphics functions to render the objects in the display. 
 
 ***By following 3 steps, we can create a dynamic and interactive game that responds to user inputs and updates its state accordingly.***  
 
