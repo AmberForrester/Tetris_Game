@@ -50,9 +50,9 @@ This game was built using Python as the programming language and its cross-platf
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
-You will need to have Python installed to complete this project.
+A good understanding of Python and Pygame would be beneficial to creating this project. However, it is always good practice to refer to the Documentation available when developing ***any*** project. 
 
-_Please refer to the [Python Documentation](https://docs.python.org/3/)_
+_Please refer to the [Python Documentation](https://docs.python.org/3/) and the [PyGame Documentation](https://www.pygame.org/docs/) for your reference._
 
 Installing Pygame: 
 ```
