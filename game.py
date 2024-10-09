@@ -61,6 +61,7 @@ class Game:
 			self.update_score(rows_cleared, 0)
 		if self.block_fits() == False:
 			self.game_over = True
+			pygame.mixer.music.stop()
 
 	def reset(self):
 		self.grid.reset()

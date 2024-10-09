@@ -9,6 +9,7 @@ score_surface = title_font.render('Score', True, Colors.white)
 next_surface = title_font.render('Next', True, Colors.white)
 game_over_surface = title_font.render('GAME OVER!', True, Colors.white)
 
+
 score_rect = pygame.Rect(320, 55, 170, 60)
 next_rect = pygame.Rect(320, 215, 170, 180)
 
@@ -20,7 +21,11 @@ clock = pygame.time.Clock()
 game = Game()
 
 GAME_UPDATE = pygame.USEREVENT
+GAME_OVER_FLASH = pygame.USEREVENT + 1
 pygame.time.set_timer(GAME_UPDATE, 200)
+pygame.time.set_timer(GAME_OVER_FLASH, 500)
+
+game_over_visible = True
 
 while True:
     for event in pygame.event.get():
@@ -46,6 +51,10 @@ while True:
         if event.type == GAME_UPDATE and game.game_over == False:
             game.move_down()
             
+        if event.type == GAME_OVER_FLASH:
+            if game.game_over:
+                game_over_visible = not game_over_visible
+            
     score_value_surface = title_font.render(str(game.score), True, Colors.white)
                 
     screen.fill(Colors.dark_blue)
@@ -53,7 +62,7 @@ while True:
     screen.blit(next_surface, (375, 180, 50, 50))
     
     
-    if game.game_over == True:
+    if game.game_over and game_over_visible:
         screen.blit(game_over_surface, (320, 450, 50, 50))
     
     pygame.draw.rect(screen, Colors.light_blue, score_rect, 0, 10)
