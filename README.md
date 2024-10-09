@@ -93,7 +93,9 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 
 
 
-<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
 
 
 
