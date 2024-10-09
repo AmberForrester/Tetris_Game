@@ -151,6 +151,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Please take some time to check out the links below! I found value in each and every one of them while creating this project, so my hope is that you will to!
 
+* [Creating Tetris in Python with pygame](https://youtu.be/nF_crEtmpBo?si=SvdgSXpcOYEvCOl0) - Special thank you to Programming With Nick for the tutorial!
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 * [Formatting Syntax: GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
