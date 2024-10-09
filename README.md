@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Please take some time to check out the links below! I found value in each and every one of them while creating this project, so my hope is that you will to!
 
 * [Creating Tetris in Python with pygame](https://youtu.be/nF_crEtmpBo?si=SvdgSXpcOYEvCOl0) - Special thank you to _Programming With Nick_ for the tutorial!
-* [More Music by Spyros](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjl2NFc3Nkd6MVRBV3l6bmxUR0JHQlNkS2s0Z3xBQ3Jtc0tseE9VMGJlWmpJMnNpTGxmNUlyMmV5RHZfbndxMkNqZ1MyLWFHZlBvOUZ3LXJrcmlNMmlJWXlPazRWekg3bTZRMXJRNGlwbVEtZUNYemZWZWYyQTloV2llTW50dkN2UzBCY2t2U1I5ajZqcnZzcVlTUQ&q=https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Faudio%2Fmusic%2Fblack-swan-vs-white-swan-audio-pack-219984&v=nF_crEtmpBo)
+* [More Music by Spyros](https://assetstore.unity.com/)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 * [Formatting Syntax: GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
