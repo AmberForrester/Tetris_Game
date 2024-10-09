@@ -1,5 +1,5 @@
 import pygame, sys
-from grid import Grid
+from game import Game
 
 pygame.init()
 dark_blue = (44, 44, 127)
@@ -9,13 +9,10 @@ pygame.display.set_caption('Python Tetris Game')
 
 clock = pygame.time.Clock()
 
-game_grid = Grid()
+game = Game()
 
-game_grid.grid[0][0] = 1
-game_grid.grid[3][5] = 4
-game_grid.grid[17][8] = 7
-
-game_grid.print_grid()
+GAME_UPDATE = pygame.USEREVENT
+pygame.time.set_timer(GAME_UPDATE, 200)
 
 while True:
     for event in pygame.event.get():
@@ -23,9 +20,25 @@ while True:
             pygame.quit()
             sys.exit()
             
+        if event.type == pygame.KEYDOWN:
+            if game.game_over == True:
+                game.game_over = False
+                game.reset()
+                
+            if event.key == pygame.K_LEFT and game.game_over == False:
+                game.move_left()
+            if event.key == pygame.K_RIGHT and game.game_over == False:
+                game.move_right()
+            if event.key == pygame.K_DOWN and game.game_over == False:
+                game.move_down()
+            if event.key == pygame.K_UP and game.game_over == False:
+                game.rotate()
+                
+        if event.type == GAME_UPDATE and game.game_over == False:
+            game.move_down()
+                
     screen.fill(dark_blue)
-    game_grid.draw(screen)
+    game.draw(screen)
             
     pygame.display.update()
     clock.tick(60)
-    
