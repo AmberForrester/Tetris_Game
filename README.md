@@ -43,10 +43,7 @@
 
 
 
-
-
-
-# About This Project
+## About This Project
 This game was built using Python as the programming language and its cross-platform set of modules Pygame, used to create video games! This partnership creates the perfect demonstration of a game development library with the various functions for graphics, audio, and input handling that Pygame has to offer. 
 <br />
 <br />
@@ -60,7 +57,7 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 
 
 
-## Getting Started
+### Getting Started
 
 
 Installing Pygame: 
@@ -78,7 +75,7 @@ Start using and initialize Pygame writing the following within `main.py`:
 pygame.init()
 ```
 
-## Set up the Game Structure  
+### Set up the Game Structure  
 Definitions:
 - [ ] Defining the variables needed
 - [ ] Creating the game objects 
@@ -126,7 +123,7 @@ clock = pygame.time.Clock()
 
 
 
-## Contributing
+### Contributing
 
 I have learned that contributions are the heart of what makes the open source community such an amazing place! We are constantly able to learn, grow, inspire eachother, and create incredible things. Any contributions you make are **greatly appreciated**, we are so lucky to be here together.
 
@@ -142,17 +139,17 @@ If you have a suggestion that would make this project better, please fork the re
 
 
 
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 
 
-## Acknowledgments
+### Acknowledgments
 
-Please take some time to check out the links below! I found value in each and every one of them, so my hope is that you will to!
+Please take some time to check out the links below! I found value in each and every one of them while creating this project, so my hope is that you will to!
 
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
