@@ -74,6 +74,7 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 3. **Install Required Dependencies after activating the Virtual Environment** 
 
 Navigate to the project directory and install the dependencies:
+
     ```bash
     pip install -r requirements.txt
     ```
