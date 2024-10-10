@@ -26,6 +26,7 @@
     <li><a href="#running-the-game">Running The Game</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 <br />
@@ -103,7 +104,9 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
   - Left Arrow: Move left
   - Right Arrow: Move right
   - Down Arrow: Move down fast
-  - Up Arrow: Rotate the piece, Reset the game if you choose not to click "Play Again?"
+  - Up Arrow: Rotate the piece, and Reset the game if you choose not to click "Play Again?"
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 
 
