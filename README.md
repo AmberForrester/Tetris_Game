@@ -110,6 +110,16 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 
 
 
+> [!Points-Breakdown]
+> 500 points = Triple Line Clear
+> 300 points = Double Line Clear
+> 100 points = Single Line Clear
+> 1 point = User using the Down Arrow to Move down fast
+
+<p align="right">(<a href="#readme-top">top of page</a>)</p>
+
+
+
 ### Contributing
 
 I have learned that contributions are the heart of what makes the open source community such an amazing place! We are constantly able to learn, grow, inspire eachother, and create incredible things. Any contributions you make are **greatly appreciated**, we are so lucky to be here together.
