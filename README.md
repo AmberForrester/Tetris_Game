@@ -24,6 +24,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#running-the-game">Running The Game</a></li>
+    <li><a href="#points-breakdown">Points Breakdown</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
