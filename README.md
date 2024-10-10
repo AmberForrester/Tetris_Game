@@ -60,23 +60,23 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 ### Step-by-Step Instructions
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/Tetris_Game.git
-   cd Tetris_Game
-   ```
+  ```bash
+  git clone https://github.com/yourusername/Tetris_Game.git
+  cd Tetris_Game
+  ```
 
 2. **Set up a Virtual Environment** (Optional but recommended.)
-    ```bash
-    python -m venv venv
-    .\venv\Scripts\Activate
-    ```
+  ```bash
+  python -m venv venv
+  .\venv\Scripts\Activate
+  ```
 
 3. **Install Required Dependencies after activating the Virtual Environment** 
 
 Navigate to the project directory and install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
