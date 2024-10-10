@@ -74,9 +74,9 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 3. **Install Required Dependencies after activating the Virtual Environment** 
 
 Navigate to the project directory and install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
@@ -108,8 +108,6 @@ Navigate to the project directory and install the dependencies:
   - Right Arrow: Move right
   - Down Arrow: Move down fast
   - Up Arrow: Rotate the piece, and Reset the game if you choose not to click "Play Again?"
-
-<p align="right">(<a href="#readme-top">top of page</a>)</p>
 
 
 
