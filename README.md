@@ -110,7 +110,8 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 
 
 
-> [!Points-Breakdown]
+> [!Note]
+> Points Breakdown: 
 > 500 points = Triple Line Clear
 > 300 points = Double Line Clear
 > 100 points = Single Line Clear
