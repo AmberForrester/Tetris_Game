@@ -50,8 +50,8 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 ## Installation
 
 ### Prerequisites
-- Python minimum version 3
-- Pygame minimum version 2
+- Python >= 3
+- Pygame >= 2
 - Virtual Environment (Optional but recommended.)
 
 
