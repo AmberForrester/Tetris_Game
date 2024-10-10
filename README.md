@@ -49,9 +49,9 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 ## Installation
 
 ### Prerequisites
-- Python 3.x
-- Pygame 2.x
-- Virtual Environment (optional but recommended)
+- Python minimum version 3
+- Pygame minimum version 2
+- Virtual Environment (Optional but recommended.)
 
 
 
@@ -63,13 +63,13 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
    cd Tetris_Game
    ```
 
-2. **Set up a Virtual Environment**(Optional but recommended)
+2. **Set up a Virtual Environment** (Optional but recommended.)
     ```bash
     python -m venv venv
     .\venv\Scripts\Activate
     ```
 
-3. **Install Required Dependencies** Navigate to the project directory and install the dependencies:
+3. **Install Required Dependencies after activating the Virtual Environment** Navigate to the project directory and install the dependencies:
     ```bash
     pip install -r requirements.txt
     ```
@@ -86,16 +86,24 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 
 
 
+### Running the Game
 
+1. **Ensure the Virtual Environment is activated** (You should see `(venv)` in your terminal prompt.)
+   ```bash
+   git clone https://github.com/yourusername/Tetris_Game.git
+   cd Tetris_Game
+   ```
 
+2. **Start the Game**
+   ```bash
+   python main.py
+   ```
 
-
-
-
-
-
-
-
+3. **How to Navigate the Tetris pieces**
+  - Left Arrow: Move left
+  - Right Arrow: Move right
+  - Down Arrow: Move down fast
+  - Up Arrow: Rotate the piece, Reset the game if you choose not to click "Play Again?"
 
 
 
