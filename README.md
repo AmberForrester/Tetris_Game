@@ -70,7 +70,9 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
     .\venv\Scripts\Activate
     ```
 
-3. **Install Required Dependencies after activating the Virtual Environment** Navigate to the project directory and install the dependencies:
+3. **Install Required Dependencies after activating the Virtual Environment** 
+
+Navigate to the project directory and install the dependencies:
     ```bash
     pip install -r requirements.txt
     ```
@@ -110,11 +112,11 @@ _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run 
 
 
 
-## Points Breakdown:
+## Points Breakdown
 > [!Note] 
-> 500 points = Triple Line Clear
-> 300 points = Double Line Clear
-> 100 points = Single Line Clear
+> 500 points = Triple Line Clear <br>
+> 300 points = Double Line Clear <br>
+> 100 points = Single Line Clear <br>
 > 1 point = User using the Down Arrow to Move down fast
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
